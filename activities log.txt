@@ -12,3 +12,9 @@ GROUP MEMBER -  THAM MEI TING ( 242UC244S6 )
     YAP CHI YI, THAM MEI TING - FIGMA
     YANG ALYA MYSARAH, AMIR ASYRAF BIN ASRUL AKMAL - CANVA
     TAN YONG XIN - Continue WIX from assignment 1
+
+23/9/2024 
+- YAP CHI YI (FIGMA)
+    - Did "About Us page" 
+    - arranged categories for shopping cart page
+    - assigned button functions that hyperlinks to each other categories
