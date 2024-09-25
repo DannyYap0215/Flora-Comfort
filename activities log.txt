@@ -5,7 +5,7 @@ GROUP MEMBER -  THAM MEI TING ( 242UC244S6 )
                 YANG ALYA MYSARAH ( 242UC245GA )
                 AMIR ASYRAF BIN ASRUL AKMAL ( 242UC244K2 )
 
-
+FIGMA activity log
 18/9/2024 
 - decided to continue on using site for Assignment 1 (Flora Comfort) [EVERYONE]
 - Assigned work to everyone 
@@ -18,3 +18,10 @@ GROUP MEMBER -  THAM MEI TING ( 242UC244S6 )
     - Did "About Us page" 
     - arranged categories for shopping cart page
     - assigned button functions that hyperlinks to each other categories
+
+25/9/2024
+- YAP CHI YI (FIGMA)
+    - Finished "About Us" page
+    - Finished "Service" page
+    - Assisted on completing shopping cart page
+
