@@ -32,9 +32,10 @@ GROUP MEMBER -  THAM MEI TING ( 242UC244S6 )
 - CANVA
     - distrubuted task on who to do what in the canva user manual (YANG ALYA MYSARAH, AMIR ASYRAF BIN ASRUL AKMAL)
     - started to do the canva user manual (YANG ALYA MYSARAH)
-    
 
 26/9/2024
+-FIGMA 
+    - did order tracking page (YAP CHI YI)
 -CANVA
     - completed the functionality guide, visual design and branding part of the canva user manual (YANG ALYA MYSARAH)
 
