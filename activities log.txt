@@ -6,36 +6,57 @@ GROUP MEMBER -  THAM MEI TING ( 242UC244S6 )
                 AMIR ASYRAF BIN ASRUL AKMAL ( 242UC244K2 )
 
 18/9/2024 
-- decided to continue on using site for Assignment 1 (Flora Comfort) [EVERYONE]
+- Decided to continue on using site for Assignment 1 (Flora Comfort) [EVERYONE]
 - Assigned work to everyone 
     YAP CHI YI, THAM MEI TING - FIGMA
     YANG ALYA MYSARAH, AMIR ASYRAF BIN ASRUL AKMAL - CANVA
     TAN YONG XIN - Continue WIX from assignment 1
 
+21/9/2024
+- FIGMA
+    - Started "Home Page" (THAM MEI TING)
+
+22/9/2024
+-FIGMA
+    - Started "Product Page" (THAM MEI TING)
+
 23/9/2024
 - FIGMA
     - Started "About Us page" (YAP CHI YI)
-    - arranged categories for shopping cart page (YAP CHI YI)
-    - assigned button functions that hyperlinks to each other categories (YAP CHI YI)
-    - discussed about what needed to be improved in the figma prototype (YAP CHI YI, THAM MEI TING, YANG ALYA MYSARAH)
+    - Arranged categories for shopping cart page (YAP CHI YI)
+    - Assigned button functions that hyperlinks to each other categories (YAP CHI YI)
+    - Finished "Home Page" (THAM MEI TING)
+    - Finished "Product Page" (THAM MEI TING)
+    - Started "Cart Page" (THAM MEI TING)
+    - Discussed about what needed to be improved in the figma prototype (YAP CHI YI, THAM MEI TING, YANG ALYA MYSARAH)
     
 24/9/2024
+- FIGMA
+    - Started "Product Detail Page" (THAM MEI TING)
+    - Started Appointment Page (THAM MEI TING)
+    - Assisted on completing services page (THAM MEI TING)
 - CANVA
-    - picked the most suitable canva template for the user manual (YANG ALYA MYSARAH)
+    - Picked the most suitable canva template for the user manual (YANG ALYA MYSARAH)
 
 25/9/2024
 - FIGMA
-    - discussed with the figma team on what other thing to improve (YAP CHI YI, THAM MEI TING, YANG ALYA MYSARAH)
+    - Discussed with the figma team on what other thing to improve (YAP CHI YI, THAM MEI TING, YANG ALYA MYSARAH)
     - Finished "About Us" page (YAP CHI YI)
     - Finished "Service" page (YAP CHI YI)
-    - Assisted on completing shopping cart page (YAP CHI YI)  
+    - Assisted on completing "Cart Page" (YAP CHI YI)
+    - Finished "Cart Page" (THAM MEI TING)
+    - Finished "Appointment Page" (THAM MEI TING)
+    - Finished "Product Detail Page" (THAM MEI TING)
 - CANVA
-    - distrubuted task on who to do what in the canva user manual (YANG ALYA MYSARAH, AMIR ASYRAF BIN ASRUL AKMAL)
-    - started to do the canva user manual (YANG ALYA MYSARAH)
-    
+    - Distrubuted task on who to do what in the canva user manual (YANG ALYA MYSARAH, AMIR ASYRAF BIN ASRUL AKMAL)
+    - Started to do the canva user manual (YANG ALYA MYSARAH)
 
 26/9/2024
+-FIGMA 
+    - Finished order tracking page (YAP CHI YI)
+    - Finished invoice page (THAM MEI TING)
+    - Final linking and checking all the hyperlink button is function (THAM MEI TING)
 -CANVA
-    - completed the functionality guide, visual design and branding part of the canva user manual (YANG ALYA MYSARAH)
+    - Completed the functionality guide, visual design and branding part of the canva user manual (YANG ALYA MYSARAH)
 
 
