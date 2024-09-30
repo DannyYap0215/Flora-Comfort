@@ -17,10 +17,17 @@ GROUP MEMBER -  THAM MEI TING ( 242UC244S6 )
     - Started "Home Page" (THAM MEI TING)
 
 22/9/2024
+- WIX (TAN YONG XIN)
+    - Brainstormed what to upgrade in the website
 -FIGMA
     - Started "Product Page" (THAM MEI TING)
 
 23/9/2024
+- WIX (TAN YONG XIN)
+    - Designed a new welcoming page of the website
+    - Designed a special deals/sale page
+    - Chose which products to be on sale
+    - Fine-tuned the home page of the website
 - FIGMA
     - Started "About Us page" (YAP CHI YI)
     - Arranged categories for shopping cart page (YAP CHI YI)
@@ -31,6 +38,10 @@ GROUP MEMBER -  THAM MEI TING ( 242UC244S6 )
     - Discussed about what needed to be improved in the figma prototype (YAP CHI YI, THAM MEI TING, YANG ALYA MYSARAH)
     
 24/9/2024
+- WIX (TAN YONG XIN)
+    - Added a map to show the location of our company
+    - Started to design "Service" page
+    - Found pictures to be use for "Service" page
 - FIGMA
     - Started "Product Detail Page" (THAM MEI TING)
     - Started Appointment Page (THAM MEI TING)
@@ -39,6 +50,13 @@ GROUP MEMBER -  THAM MEI TING ( 242UC244S6 )
     - Picked the most suitable canva template for the user manual (YANG ALYA MYSARAH)
 
 25/9/2024
+- WIX (TAN YONG XIN)
+    - Added all details for each services
+    - Finished to design "Service" page
+    - Designed "Inspirations" page
+    - Wrote three new blogs to share some new Inspiration and Tips for Home Decor
+    - Did the final fine-tune for the website
+    - Completed the whole website
 - FIGMA
     - Discussed with the figma team on what other thing to improve (YAP CHI YI, THAM MEI TING, YANG ALYA MYSARAH)
     - Finished "About Us" page (YAP CHI YI)
