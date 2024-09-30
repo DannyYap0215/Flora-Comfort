@@ -76,14 +76,12 @@ GROUP MEMBER -  THAM MEI TING ( 242UC244S6 )
     - Final linking and checking all the hyperlink button is function (THAM MEI TING)
 -CANVA
     - Completed the functionality guide, visual design and branding part of the canva user manual (YANG ALYA MYSARAH)
-<<<<<<<<< Temporary merge branch 1
 
 27/9/2024
 -Presentation Video Recording (ALL MEMBERS)
 
 29/9/2024
--Finished edited the Presentation Video and uploaded on YouTube
-=========
+    -Finished edited the Presentation Video and uploaded on YouTube
     - Added transition on each slides and some animations (YANG ALYA MYSARAH)
     - Completed slides for introduction, dashboard overview and navigation guide (AMIR ASYRAF)
 
@@ -91,4 +89,4 @@ GROUP MEMBER -  THAM MEI TING ( 242UC244S6 )
 -CANVA
     - Recorded the presentation video (YANG ALYA MYSARAH)
     - Recorded the presentation video (AMIR ASYRAF)
->>>>>>>>> Temporary merge branch 2
+
